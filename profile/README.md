@@ -1,16 +1,17 @@
 # Welcome to the tEcohabitat-One Designer
 
-This is the place where you can join the creation of tEcohabitat-One — the first tEcohabitat: an open-source, regenerative home built for humans and designed in harmony with nature.
+This is the place where you can join the creation of tEcohabitat-One — the first tEcohabitat: an open-source, fully off-grid home built for people and designed in harmony with nature.
+The entire project is open to collaboration — every idea, design, and discovery will remain free and accessible to all.
 
-The entire project is open to collaboration: every idea, design, and discovery will remain free and accessible to all.
-Whether you’re an expert or a creative thinker, your contribution can help shape the future of sustainable living.
+1) Start exploring the tEcohabitat-One functional areas below.
 
-Start with Chapter One to explore how a tEcoHabitat is structured.
-Then, in Chapters Two and Three, learn how you can directly influence its requirements.
+2) In the **Discussions** section, you can contribute by proposing new ideas, presenting solutions, or sharing complete schematics for any system. [(here)](https://github.com/orgs/tEcohabitats/discussions)
+
+3) The Contributions will then be moved to the **official Repository**, where the project documents are maintained and made available to the world. [(here)](https://github.com/tEcohabitats/tEcohabitat-One_Docs)
 
 ---
 
-## Chapter One: tEcohabitat-One functional areas
+## tEcohabitat-One functional areas
 
 A high-level overview of the tEcoHabitat-One, explaining the purpose of each area.
 ![](/profile/tEcohabitat-One.png )
@@ -49,17 +50,3 @@ The habitat is engineered to maximize safety and reduce exposure to hazards such
 
 ### 11) Miscellaneous Topics
 The entire structure is elevated on posts, allowing wildlife to move freely beneath it and minimizing land disturbance. Its footprint is kept to an absolute minimum to protect surrounding ecosystems. The final architecture will be determined after the most important functional requirements have been specified.
-
----
-
-
-## Chapter Two: Discussions
-In the Discussions section at the top of this page, you can propose new ideas, present solutions, or share complete schematics for any system. Valuable contributions will be moved to the official repository, where the Requirements Book is maintained.
-
-![](/profile/categories.png )
-
----
-
-## Chapter Three: Documents repository
-For advanced users, you can access the tEcohabitat-One_Docs repository and make changes directly in the Requirements Book. To qualify as an advanced user, you should be familiar with GitHub workflows and the Markdown document format.
-![](/profile/repository.png )
